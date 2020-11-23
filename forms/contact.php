@@ -1,5 +1,5 @@
 <?php
-  $receiving_email_address = 'monteiro1998@live.com';
+  $receiving_email_address = '';
 
   if( file_exists($php_email_form = '../assets/vendor/php-email-form/validate,js' )) {
     include( $php_email_form );

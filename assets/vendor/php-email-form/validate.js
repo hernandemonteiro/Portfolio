@@ -1,4 +1,4 @@
-$(document).ready( function(){ //Quando documento estiver pronto
+$(document).ready( function(){
   $('#submit').click( function(){ 
       /* Coletando dados */
       var name  = $('#name').val();
